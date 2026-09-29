@@ -1,0 +1,10 @@
+dataset/
+data/
+output/
+.venv/
+*.log
+*.zip
+__pycache__/
+.pytest_cache/
+.uv-cache/
+FIREJAIL.md
